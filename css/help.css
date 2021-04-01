@@ -168,11 +168,33 @@ p{
 }
 
 .group{
-	padding-bottom:500px;
+	padding-bottom:100px;
 	padding-left: 200px;
+	padding-right: 200px
 }
 .flex{
 	display: flex;
 	justify-content: space-evenly
 	;
+}
+#Picture1{
+		display: flex;
+ 	margin-left: 50px;
+ 	margin-top:50px;
+ 	padding-bottom:0px;
+ 	margin-bottom:0px;
+
+}
+.small{
+	display: block;
+	margin: 2px 0;
+}
+.big{
+	display: block;
+	margin: 12px 0;
+
+}
+b{
+	font-size: 50px;
+	font-weight: 900;
 }
